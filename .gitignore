@@ -1,0 +1,10 @@
+node_modules/
+original.scad
+
+slides/_notes-test.pptx
+slides/patent_pages/
+slides/assets/*-trim.png
+slides/assets/fig-detail-page-*.png
+slides/assets/fig1a-page-*.png
+slides/assets/*.svg
+slides/assets/actuator-perspective.png
